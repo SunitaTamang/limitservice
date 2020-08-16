@@ -7,7 +7,7 @@
     <version>2.2.0.M6</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
-  <groupId>com.javatpoint.microservices</groupId>
+  <groupId>com.vastika.microservices</groupId>
   <artifactId>limits-service</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>limits-service</name>
